@@ -1,6 +1,6 @@
 # Bmi Calculator
 
-![alt text](https://github.com/Andrian-W/BmiCalculator/tree/main/ilust/screenshot.png)
+![alt text](https://github.com/Andrian-W/BmiCalculator/tree/main/ilust/screenshot.png?raw=true)
 
 ## What is BMI Calculator?
 By Definition BMI is Body mass index (BMI) is a value derived from the mass (weight) and height of a person.
