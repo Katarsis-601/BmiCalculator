@@ -8,5 +8,5 @@ ReactJS,CSS3 and HTML5
 
 ## Install
 ```
-tes
+git clone https://github.com/Andrian-W/BmiCalculator.git
 ```
