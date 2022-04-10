@@ -1,7 +1,8 @@
 # Bmi Calculator
+## What is BMI Calculator?
 By Definition BMI is Body mass index (BMI) is a value derived from the mass (weight) and height of a person.
 This website made to calculate BMI easier
 
-# BUILD WITH
+## Build With
 ReactJS,CSS3 and HTML5
 
