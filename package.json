@@ -1,0 +1,19 @@
+{
+  "name": "kalkulator-bmi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "babel src --out-dir public -w",
+    "server": "lite-server --baseDir public",
+    "start" : "npm run server & npm run build"
+  },
+  "author": "kuroyuki",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/preset-react": "^7.16.7",
+    "lite-server": "^2.6.1"
+  }
+}
