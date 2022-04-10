@@ -6,3 +6,4 @@ This website made to calculate BMI easier
 ## Build With
 ReactJS,CSS3 and HTML5
 
+## How to install Project
