@@ -1,5 +1,5 @@
 # Bmi Calculator
-
+### Note : This project didn't made with CRA(create-react-app) thats why you must installing babel manualy 
 ![](ilust/screenshot.png)
 
 ## What is BMI Calculator?
