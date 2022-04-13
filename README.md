@@ -19,13 +19,13 @@ cd BmiCalculator
 ## Install some Module
 ```
 npm install @babel/cli @babel/core @babel/preset-react
-npm install lite-server
+npm install lite-server (optional)
 ```
 
 ## Run Website
 ```
 npm run build (to compiling JSX from src folder)
-npm run server (to start lite-server ! without compiling)
+npm run server (to start lite-server ! without compiling) (use this if you installing lite-server)
 npm start (compiling and run lite-server at the same time)
 ```
 
